@@ -2,4 +2,4 @@
 ## Gravando mudanças
 
 # Salvando modificações no Git
-# Exercitando comandos git
+# Exercitando
