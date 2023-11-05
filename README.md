@@ -6,3 +6,4 @@
 # Testando mudanças no github
 # denovo
 * comando git push
+* comando git pull
