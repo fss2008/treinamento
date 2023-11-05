@@ -5,4 +5,4 @@
 # Exercitando dfs
 # Testando mudanças no github
 # denovo
-# Alterando pelo vscode
+* comando git push
